@@ -1,0 +1,114 @@
+1|الفاتحة|আল ফাতিহা|Al-Fatihah|সূচনা|The Opening|7|1|1|0|0|al-fatiha,alfatiha,fatiha
+2|البقرة|আল বাকারা|Al-Baqara|বকনা-বাছুর|The Heifer|286|8|0|0|0|al-baqara,albaqara,baqara,bakara
+3|آل عمران|আল ইমরান|Al-i'Imran|ইমরানের পরিবার|Family of 'Imran|200|294|0|0|0|aal-e-imran,aaleimran,imran,emran
+4|النساء|আন নিসা|An-Nisaa|নারী|Women|176|494|0|0|0|an-nisa,annisa,nisa,nesa
+5|المائدة|আল মায়িদাহ|Al-Maidah|খাদ্য পরিবেশিত টেবিল|The Table|120|670|0|0|0|al-maeda,almaeda,maeda,maida
+6|الأنعام|আল আনআম|Al-An'am|গৃহপালিত পশু|Livestock|165|790|1|0|0|al-anaam,alanaam,anaam
+7|الأعراف|আল আরাফ|Al-A'raf|উচু স্থানসমূহ|The Elevations|206|955|1|1|206|al-araf,alaraf,araf
+8|الأنفال|আল আনফাল|Al-Anfal|আল আনফাল|The Spoils|75|1161|0|0|0|al-anfal,alanfal,anfal
+9|التوبة|আত তাওবাহ্|At-Tauba|অনুশোচনা|Repentance|129|1236|0|0|0|at-taubah,attaubah,taubah,taoba
+10|يونس|ইউনুস|Yunus|নবী ইউনুস|Jonah|109|1365|1|0|0|yunus,yunus,yunus,younus
+11|هود|হুদ|Hud|নবী হুদ|Hud|123|1474|1|0|0|hud,hud,hud,hod
+12|يوسف|ইউসুফ|Yusuf|নবী ইউসুফ|Joseph|111|1597|1|0|0|yusuf,yusuf,yusuf,yousuf,yosuf
+13|الرّعد|আর রা'দ|Ar-Ra'd|বজ্রপাত|Thunder|43|1708|0|1|15|ar-rad,arrad,rad,raad
+14|إبراهيم|ইব্রাহীম|Ibrahim|নবী ইব্রাহীম|Abraham|52|1751|0|0|0|ibrahim,ibrahim,ibrahim,ebrahim
+15|الحجر|আল হিজর|Al-Hijr|পাথুরে পাহাড়|The Rock|99|1803|1|0|0|al-hijr,alhijr,hijr
+16|النحل|আন নাহল|An-Nahl|মৌমাছি|The Bee|128|1902|1|1|50|an-nahl,annahl,nahl,nahol
+17|الإسراء|বনী-ইসরাঈল|Al-Israa|ইহুদী জাতি|The Night Journey|111|2030|1|1|109|al-isra,alisra,isra,esra
+18|الكهف|আল কাহাফ|Al-Kahf|গুহা|The Cave|110|2141|1|0|0|al-kahf,alkahf,kahf,kahf,kaaf
+19|مريم|মারইয়াম|Maryam|মারইয়াম (ঈসা নবীর মা)|Mary|98|2251|1|1|58|maryam,maryam,maryam,morium,moriom
+20|طه|ত্বোয়াহ|Ta-ha|ত্বোয়া-হা|Ta Ha|135|2349|1|0|0|taha,taha,taha,toha
+21|الأنبياء|আল আম্বিয়া|Al-Anbiyaa|নবীগণ|The Prophets|112|2484|1|0|0|al-anbiya,alanbiya,anbiya
+22|الحج|আল হাজ্জ্ব|Al-Hajj|হজ্জ|The Pilgrimage|78|2596|0|1|18,77|al-hajj,alhajj,hajj,hoj,haaj
+23|المؤمنون|আল মুমিনূন|Al-Muminun|মুমিনগণ|The Believers|118|2674|1|0|0|al-mumenoon,almumenoon,mumenoon,momenun,momenon
+24|النّور|আন নূর|An-Nur|আলো|The Light|64|2792|0|0|0|an-noor,annoor,noor,nur
+25|الفرقان|আল ফুরকান|Al-Furqan|সত্য মিথ্যার পার্থক্য নির্ধারণকারী গ্রন্থ|The Criterion|77|2856|1|1|60|al-furqan,alfurqan,furqan,furkan
+26|الشعراء|আশ শুআরা|Ash-Shu'araa|কবিগণ|The Poets|227|2933|1|0|0|ash-shuara,ashshuara,shuara,shuara
+27|النمل|আন নম্‌ল|An-Naml|পিপীলিকা|The Ant|93|3160|1|1|26|an-naml,annaml,naml,namal,nomol
+28|القصص|আল কাসাস|Al-Qasas|কাহিনী|History|88|3253|1|0|0|al-qasas,alqasas,qasas,kasas
+29|العنكبوت|আল আনকাবুত|Al-Ankabut|মাকড়শা|The Spider|69|3341|1|0|0|al-ankaboot,alankaboot,ankaboot,unkabot,ankabot
+30|الروم|আর রুম|Ar-Rum|রোমান জাতি|The Romans|60|3410|1|0|0|ar-room,arroom,room,rom
+31|لقمان|লোকমান|Luqman|একজন জ্ঞানী ব্যাক্তি|Luqman|34|3470|1|0|0|luqman,luqman,luqman,lokman
+32|السجدة|আস সেজদাহ্‌|As-Sajda|সিজদা|Prostration|30|3504|1|1|15|as-sajda,assajda,sajda
+33|الأحزاب|আল আহ্‌যাব|Al-Ahzab|জোট|The Confederates|73|3534|0|0|0|al-ahzab,alahzab,ahzab
+34|سبإ|সাবা|Saba|রানী সাবা/শেবা|Sheba|54|3607|1|0|0|saba,saba,saba
+35|فاطر|ফাতির|Fatir|আদি স্রষ্টা|Originator|45|3661|1|0|0|fatir,fatir,fatir
+36|يس|ইয়াসীন|Ya-Sin|ইয়াসীন|Ya Seen|83|3706|1|0|0|yasin,yasin,yasin,yaseen
+37|الصّافّات|আস ছাফ্‌ফাত|As-Saffat|সারি বদ্ধ ভাবে দাঁড়ানো|The Aligners|182|3789|1|0|0|as-saaffat,assaaffat,saaffat
+38|ص|ছোয়াদ|Sad|আরবি বর্ণ|Saad|88|3971|1|1|24|sad,sad,sad
+39|الزمر|আয্‌-যুমার|Az-Zumar|দলবদ্ধ জনতা|Throngs|75|4059|1|0|0|az-zumar,azzumar,zumar,jumar
+40|غافر|আল মু'মিন |Al-Mu'min|বিশ্বাসী|Forgiver|85|4134|1|0|0|ghafir,ghafir,ghafir,gafir
+41|فصّلت|হা-মীম সেজদাহ্|Ha-Mim|সুস্পষ্ট বিবরণ|Detailed|54|4219|1|1|38|fussilat,fussilat,fussilat
+42|الشورى|আশ্‌-শূরা|Ash-Shura|পরামর্শ|Consultations|53|4273|1|0|0|ash-shura,ashshura,shura,sora
+43|الزخرف|আয্‌-যুখরুফ|Az-Zukhruf|সোনাদানা|Decorations|89|4326|1|0|0|az-zukhruf,azzukhruf,zukhruf,jukruf
+44|الدخان|আদ-দোখান|Ad-Dukhan|ধোঁয়া|Smoke|59|4415|1|0|0|ad-dukhan,addukhan,dukhan,dokan
+45|الجاثية|আল জাসিয়াহ|Al-Jathiya|নতজানু|Kneeling|37|4474|1|0|0|al-jathiya,aljathiya,jathiya,jatiya
+46|الأحقاف|আল আহ্‌কাফ|Al-Ahqaf|বালুর পাহাড়|The Dunes|35|4511|1|0|0|al-ahqaf,alahqaf,ahqaf
+47|محمّـد|মুহাম্মাদ|Muhammad|নবী মুহাম্মাদ|Muhammad|38|4546|0|0|0|muhammad,muhammad,muhammad,mohammad
+48|الفتح|আল ফাত্‌হ|Al-Fat-h|বিজয়,মক্কা বিজয়|Victory|29|4584|0|0|0|al-fath,alfath,fath
+49|الحُـجُـرات|আল হুজরাত|Al-Hujurat|বাসগৃহসমুহ|The Chambers|18|4613|0|0|0|al-hujraat,alhujraat,hujraat,hujrat
+50|ق|ক্বাফ|Qaf|ক্বাফ|Qaf|45|4631|1|0|0|qaf,qaf,qaf,quf
+51|الذاريات|আয-যারিয়াত|Az-Zariyat|বিক্ষেপকারী বাতাস|The Soreaders|60|4676|1|0|0|adh-dhariyat,adhdhariyat,dhariyat,dariat
+52|الـطور|আত্ব তূর|At-Tur|পাহাড়|The Mount|49|4736|1|0|0|at-tur,attur,tur,tor
+53|الـنحـم|আন-নাজম|An-Najm|তারা|The Star|62|4785|1|1|62|an-najm,annajm,najm
+54|الـقمـر|আল ক্বামার|Al-Qamar|চন্দ্র|The Moon|55|4847|1|0|0|al-qamar,alqamar,qamar,kamar
+55|الـرحـمـن|আর রহমান|Ar-Rahman|পরম করুণাময়|The Compassionate|78|4902|0|0|0|al-rahman,alrahman,rahman
+56|الواقيـة|আল ওয়াক্বিয়াহ্‌|Al-Waqi'a|নিশ্চিত ঘটনা|The Inevitable|96|4980|0|0|0|al-waqia,alwaqia,waqia,wakia
+57|الحـديد|আল হাদীদ|Al-Hadid|লোহা|Iron|29|5076|0|0|0|al-hadid,alhadid,hadid,hadith
+58|الـمجادلـة|আল মুজাদালাহ্‌|Al-Mujadila|অনুযোগকারিণী|The Argument|22|5105|0|0|0|al-mujadila,almujadila,mujadila,mujadallah
+59|الـحـشـر|আল হাশ্‌র|Al-Hashr|সমাবেশ|The Mobilization|24|5127|0|0|0|al-hashr,alhashr,hashr,hasor
+60|الـمـمـتـحنة|আল মুম্‌তাহিনাহ্‌|Al-Mumtahana|নারী,যাকে পরীক্ষা করা হবে|The Woman Tested|13|5151|0|0|0|al-mumtahina,almumtahina,mumtahina
+61|الـصّـف|আস সাফ|As-Saff|সারবন্দী সৈন্যদল|Column|14|5164|0|0|0|as-saff,assaff,saff
+62|الـجـمـعـة|আল জুমুআহ|Al-Jumu'a|সম্মেলন/শুক্রবার|Friday|11|5178|0|0|0|al-jumua,aljumua,jumua
+63|الـمنافقون|আল মুনাফিকূন|Al-Munafiqun|কপট বিশ্বাসীগণ|The Hypocrites|11|5189|0|0|0|al-munafiqoon,almunafiqoon,munafiqoon,munafiqun
+64|الـتغابن|আত তাগাবুন|At-Tagabun|মোহ অপসারণ|Gathering|18|5200|0|0|0|at-taghabun,attaghabun,taghabun,tagabon
+65|الـطلاق|আত ত্বালাক|At-Talaq|তালাক|Divorce|12|5218|0|0|0|at-talaq,attalaq,talaq,talak
+66|الـتحريم|আত তাহরীম|At-Tahrim|নিষিদ্ধকরণ|Prohibition|12|5230|0|0|0|at-tahrim,attahrim,tahrim
+67|الـملك|আল মুল্‌ক|Al-Mulk|সার্বভৌম কতৃত্ব|Sovereignty|30|5242|1|0|0|al-mulk,almulk,mulk
+68|الـقـلـم|আল ক্বলম|Al-Qalam|কলম|The Pen|52|5272|1|0|0|al-qalam,alqalam,qalam
+69|الـحاقّـة|আল হাক্কাহ|Al-Haqqa|নিশ্চিত সত্য|The Reality|52|5324|1|0|0|al-haaqqa,alhaaqqa,haaqqa,hoq
+70|الـمعارج|আল মাআরিজ|Al-Ma'arij|উন্নয়নের সোপান|The Ways of Ascent|44|5376|1|0|0|al-maarij,almaarij,maarij,marij
+71|نوح|নূহ|Nuh|নবী নূহ|Noah|28|5420|1|0|0|nooh,nooh,nooh,noh
+72|الجن|আল জ্বিন|Al-Jinn|জ্বিন সম্প্রদায়|The Jinn|28|5448|1|0|0|al-jinn,aljinn,jinn
+73|الـمـزّمّـل|আল মুয্‌যাম্মিল|Al-Muzzammil|বস্ত্রাচ্ছাদনকারী|The Enwrapped|20|5476|1|0|0|al-muzzammil,almuzzammil,muzzammil,muzammel
+74|الـمّـدّثّـر|আল মুদ্দাস্‌সির|Al-Muddathth|পোশাক পরিহিত|The Enrobed|56|5496|1|0|0|al-muddathir,almuddathir,muddathir,muddasir
+75|الـقـيامـة|আল ক্বিয়ামাহ্‌|Al-Qiyamat|পুনরত্থান|Resurrection|40|5552|1|0|0|al-qiyama,alqiyama,qiyama
+76|الإنسان|আদ দাহ্‌র|Ad-Dahr|মানুষ|Man|31|5592|0|0|0|al-insan,alinsan,insan
+77|الـمرسلات|আল মুরসালাত |Al-Mursalat|প্রেরিত পুরুষগণ|The Unleashed|50|5623|1|0|0|al-mursalat,almursalat,mursalat,morsalat
+78|الـنبإ|আন্‌ নাবা|An-Nabaa|মহাসংবাদ|The Event|40|5673|1|0|0|an-naba,annaba,naba
+79|الـنازعات|আন নাযিয়াত|An-Nazi'at|প্রচেষ্টাকারী|The Snatchers|46|5713|1|0|0|an-naziat,annaziat,naziat
+80|عبس|আবাসা|Abasa|তিনি ভ্রুকুটি করলেন|He Frowned|42|5759|1|0|0|abasa,abasa,abasa
+81|التكوير|আত তাক্‌ভীর|At-Takwir|অন্ধকারাচ্ছন্ন|The Rolling|29|5801|1|0|0|at-takwir,attakwir,takwir
+82|الانفطار|আল ইন্‌ফিতার|Al-Infitar|বিদীর্ণ করা|The Shattering|19|5830|1|0|0|al-infitar,alinfitar,infitar,infittar
+83|المطـفـفين|আত মুত্বাফ্‌ফিফীন|Al-Mutaffife|প্রতারণা করা|The Defrauders|36|5849|1|0|0|al-mutaffifin,almutaffifin,mutaffifin,motaffin
+84|الانشقاق|আল ইন্‌শিকাক|Al-Inshiqaq|খন্ড-বিখন্ড করণ|The Rupture|25|5885|1|1|21|al-inshiqaq,alinshiqaq,inshiqaq,insikka
+85|البروج|আল বুরুজ|Al-Buruj|নক্ষত্রপুন্জ|The Constellations|22|5910|1|0|0|al-burooj,alburooj,burooj,boroj
+86|الـطارق|আত তারিক্ব|At-Tariq|রাতের আগন্তুক|The Nightly Visitors|17|5932|1|0|0|at-tariq,attariq,tariq,tarik
+87|الأعـلى|আল আ'লা|Al-A'la|সর্বোন্নত|The Most High|19|5949|1|0|0|al-ala,alala,ala
+88|الغاشـيـة|আল গাশিয়াহ্‌|Al-Gashiya|আল গাশিয়াহ্‌ |The Overwhelming|26|5968|1|0|0|al-ghashiya,alghashiya,ghashiya,gashia
+89|الفجر|আল ফাজ্‌র|Al-Fajr|ভোরবেলা|The Dawn|30|5994|1|0|0|al-fajr,alfajr,fajr,fajor
+90|الـبلد|আল বালাদ|Al-Balad|নগর|The Land|20|6024|1|0|0|al-balad,albalad,balad
+91|الـشـمـس|আশ শামস|Ash-Shams|সূর্য|The Sun|15|6044|1|0|0|ash-shams,ashshams,shams,sams
+92|اللـيـل|আল লাইল|Al-Lail|রাত্রি|The Night|21|6059|1|0|0|al-lail,allail,lail
+93|الضـحى|আদ দুহা|Adh-Dhuha|পূর্বান্হের সুর্যকিরণ|Morning Light|11|6080|1|0|0|ad-dhuha,addhuha,dhuha,duha
+94|الـشرح|আল ইনশিরাহ|Al-Sharh|বক্ষ প্রশস্তকরণ|The Soothing|8|6091|1|0|0|al-inshirah,alinshirah,inshirah,insira
+95|الـتين|আত ত্বীন|At-Tin|ডুমুর|The Fig|8|6099|1|0|0|at-tin,attin,tin,thin
+96|الـعلق|আল আলাক|Al-Alaq|রক্তপিন্ড|Clot|19|6107|1|1|19|al-alaq,alalaq,alaq,alak
+97|الـقدر|আল ক্বাদর|Al-Qadr|মহিমান্বিত|Decree|5|6126|1|0|0|al-qadr,alqadr,qadr,kodor
+98|الـبينة|আল বাইয়্যিনাহ|Al-Baiyina|সুস্পষ্ট প্রমাণ|Clear Evidence|8|6131|0|0|0|al-bayyina,albayyina,bayyina,baiyna
+99|الـزلزلة|আল যিল্‌যাল|Al-Zalzalah|ভূমিকম্প|The Quake|8|6139|0|0|0|al-zalzala,alzalzala,zalzala,zilzal
+100|الـعاديات|আল আদিয়াত|Al-Adiyat|অভিযানকারী|The Racers|11|6147|1|0|0|al-adiyat,aladiyat,adiyat,adiat
+101|الـقارعـة|আল ক্বারিয়াহ্‌|Al-Qari'a|মহাসংকট|The Shocker|11|6158|1|0|0|al-qaria,alqaria,qaria,karia
+102|الـتكاثر|আত তাকাসুর|At-Takathur|প্রাচুর্যের প্রতিযোগিতা|Abundance|8|6169|1|0|0|at-takathur,attakathur,takathur
+103|الـعصر|আল আছর|Al-Asr|সময়|Time|3|6177|1|0|0|al-asr,alasr,asr,asor
+104|الـهمزة|আল হুমাযাহ|Al-Humaza|পরনিন্দাকারী|The Backbiter|9|6180|1|0|0|al-humaza,alhumaza,humaza,homaza
+105|الـفيل|আল ফীল|Al-Fil|হাতি|The Elephant|5|6189|1|0|0|al-fil,alfil,fil,pil
+106|قريش|কুরাইশ|Quraish|কুরাইশ গোত্র|Quraysh|4|6194|1|0|0|quraish,quraish,quraish
+107|المـاعون|আল মাঊন|Al-Ma'un|সাহায্য-সহায়তা|Assistance|7|6198|1|0|0|al-maun,almaun,maun,maoun
+108|الـكوثر|আল কাওসার|Al-Kauthar|প্রাচুর্য|Plenty|3|6205|1|0|0|al-kauther,alkauther,kauther,kawsar
+109|الـكافرون|আল কাফিরুন|Al-Kafirun|অবিশ্বাসী গোষ্ঠী|The Disbelievers|6|6208|1|0|0|al-kafiroon,alkafiroon,kafiroon,kafiron
+110|الـنصر|আন নাসর|An-Nasr|স্বর্গীয় সাহায্য|Victory|3|6214|0|0|0|an-nasr,annasr,nasr,nasor
+111|الـمسد|আল লাহাব |Al-Lahab|জ্বলন্ত অংগার|Thorns|5|6217|1|0|0|al-masadd,almasadd,masadd,masad
+112|الإخلاص|আল ইখলাস|Al-Ikhlas|একত্ব|Monotheism|4|6222|1|0|0|al-ikhlas,alikhlas,ikhlas,eklas
+113|الـفلق|আল ফালাক|Al-Falaq|নিশিভোর|Daybreak|5|6226|1|0|0|al-falaq,alfalaq,falaq,falak
+114|الـناس|আন নাস|Al-Nas|মানবজাতি|Mankind|6|6231|1|0|0|an-nas,annas,nas,nus
