@@ -1,0 +1,46 @@
+# ==========================================
+# Source Code Protection (Public Repository)
+# ==========================================
+# Block all source code and sensitive project files
+/app/
+/admin-panel/
+/community-shield/
+/LabTest/
+/design_references/
+/scratch/
+/.agents/
+/.kotlin/
+/gradle/
+*.gradle.kts
+gradlew
+gradlew.bat
+gradle.properties
+local.properties
+*.iml
+.idea/
+.gradle/
+build/
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+# Credentials, Keys & Secrets
+*firebase-adminsdk*.json
+*credentials*.json
+*.keystore
+keyStore
+*token*.json
+*.token
+*.bak
+
+# ==========================================
+# Allowed Public Files Only (Whitelist)
+# ==========================================
+!/.gitignore
+!/README.md
+!/LICENSE
+!/apk/
+!/apk/**
+!/assets/
+!/assets/**
